@@ -19,7 +19,7 @@
             </md-field>
             <md-field>
               <label>Description</label>
-              <md-textarea v-model="this.course.description" :disabled="check"></md-textarea>
+              <md-textarea v-model="this.course.description"  :disabled="check"></md-textarea>
             </md-field>
           </md-card-content>
         </md-card>

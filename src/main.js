@@ -8,7 +8,6 @@ import Dashboard from './components/Dashboard.vue'
 import Courses from './components/Courses.vue'
 import Students from './components/Students.vue'
 import babelPolyfill from 'babel-polyfill'
-import Login from './components/Login.vue'
 import CreateCourse from './components/CreateCourse.vue'
 import CourseData from './components/CourseData.vue'
 
